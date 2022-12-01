@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                   3),
               Task(
                   'Andar de Bike',
-                  'https://doutorjairo.uol.com.br/media/_versions/istock_bicicleta_OnoWQxU_widelg.jpg',
+                  'https://aventurasnabike.com.br/wp-content/uploads/2022/05/bicicleta-emagrece.jpg',
                   2),
               Task(
                   'Meditar',
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                   4),
               Task(
                   'Jogar',
-                  'https://i.insider.com/5e98569bc023204862788de3?width=1136&format=jpeg',
+                  'https://pbs.twimg.com/media/Eu7m692XIAEvxxP?format=png&name=large',
                   1),
             ],
           ),
